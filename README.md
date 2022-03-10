@@ -70,3 +70,15 @@ Número de disciplinas matriculados no semestre: 5
 Linguagens de programação favoritas (máx 2): Python, Javascript
 
 --------------------------------------------
+
+Nome Completo: Anthony Douglas Carvalho Simplicio
+
+Ano de ingresso: 2019
+
+Nº da matrícula: 20192ADSGR0079
+
+Número de disciplinas matriculados no semestre: 6
+
+Linguagens de programação favoritas (máx 2): TypeScript
+
+--------------------------------------------
